@@ -1,6 +1,7 @@
 # Cryptowatch
 
-Mobile App for Android Made with Cordova and Vue.js which shows cryptocurrency prices in the moment and via graph also.
+Mobile App for Android Made with Cordova and Vue.js which shows cryptocurrency prices in the moment and via graph also.  
+Currently showcases only following cryptocurrencies: BTC, ETH, LTC, XRP, XLM.
 
 ## Project setup
 ```
